@@ -11,3 +11,5 @@ Link to Dataset: https://www.kaggle.com/datasets/ruchi798/source-based-news-clas
 
 Link to colab file: https://colab.research.google.com/drive/1HHefxOqwo0oh2roE_Y0KijSFrZgfhTdf?usp=sharing
 
+Model used: https://huggingface.co/facebook/bart-large-cnn
+
